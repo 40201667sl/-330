@@ -1,4 +1,4 @@
-# SillyTavern 文生图 (轮椅王子)
+# 轮椅王子
 
 **作者:** 从前跟你一样
 **版本:** 1.0.0
@@ -30,7 +30,7 @@
 
 1.  在 SillyTavern 的扩展菜单中，从以下 URL 安装插件：
     ```
-    https://github.com/damoshen123/st-chatu8
+    https://github.com/40201667sl/-330
     ```
 2.  重启 SillyTavern。
 3.  在扩展菜单中启用 "轮椅王子"。
