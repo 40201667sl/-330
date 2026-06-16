@@ -1,0 +1,17 @@
+{
+  "name": "wheelchair-prince",
+  "version": "1.0.0",
+  "description": "**作者:** 从前跟你一样\r **版本:** 1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "obfuscate": "node obfuscate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.28.1",
+    "javascript-obfuscator": "^4.2.2"
+  }
+}
